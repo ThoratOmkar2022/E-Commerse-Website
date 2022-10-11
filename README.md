@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Demo Screeshots
 <!-- desktop Screeshots -->
-<!-- ![e-commerce website](./readme-images/desktop.png"Desktop Demo") -->
 ![e-commerce website](Screenshot-1.png)
 <br/>
+##
 ![e-commerce website](Screenshot-2.png)
 
 
